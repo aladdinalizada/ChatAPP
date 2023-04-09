@@ -1,8 +1,8 @@
 # Simple ChatAPP With Socket.io
 Simple Chatting app i used: 
-1. Express
-2. socker.io
-3. http
+* Express
+* socker.io
+* http
 ## Usage 
 ```
 # clone repo
