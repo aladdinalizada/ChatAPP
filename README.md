@@ -13,8 +13,8 @@ npm i
 npm run start
 ```
 ## Screenshors
-<div>
+
 <img title="cover-photo" alt="" src="images/user1.png" width="500px" align="left">
-<img title="cover-photo-2" alt="" src="images/user2.png" width="500px" align="right">
-<div/>
+<img title="cover-photo-2" alt="" src="images/user2.png" width="500px" align="left">
+
 
